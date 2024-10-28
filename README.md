@@ -20,4 +20,4 @@ Software Engineer and Student
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pavish-Kumar?theme=light&font=PT%20Mono&ext=heatmap)
-[!Pavish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pavish-kumar&bg_color=e2d5d6&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[!Pavish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pavish-kumar&bg_color=e2d5d6&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)]
